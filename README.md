@@ -34,7 +34,7 @@ Install Ollama. Download from ollama.com and install. After installation, Ollama
 
 Download the AI model. Open terminal and run: ollama pull llama3.2:3b. Wait for the download to complete (about 2-3 GB).
 
-Create a Telegram bot. Open Telegram, find @BotFather, send /newbot, choose a name and username for your bot, copy the token. The token looks like 1234567890:ABCdefGHIjklMNOpqrsTUVwxyz.
+Create a Telegram bot. Open Telegram, find @BotFather, send /newbot, choose a name and username for your bot, copy the token. The token looks like 1234567890:ABCdefGHIjklMNOpqrsTUVwxyz. I forgot to say that you also need NEWS_API TOKEN. So create him and put it in code.
 
 Download the bot code. Create a folder, download the bot.py file or copy the code from the repository.
 
